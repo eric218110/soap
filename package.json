@@ -1,0 +1,15 @@
+{
+  "name": "soap",
+  "version": "1.0.0",
+  "description": "Exercicio Eric Silva Mendes",
+  "main": "server.js",
+  "repository": "https://github.com/eric218110/soap.git",
+  "author": "Eric Silva",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "soap": "^0.31.0"
+  }
+}
